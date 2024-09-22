@@ -131,7 +131,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 800px;
+    min-height: 833px;
   }
 
   .u-section-1 .u-text-1 {
@@ -144,9 +144,9 @@
 
   .u-section-1 .u-gallery-1 {
     width: 340px;
-    height: 629px;
+    height: 571px;
     margin-top: 24px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
